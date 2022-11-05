@@ -1,4 +1,4 @@
-### Hi, I'm Davidson 👋
+### Hi, I'm Davidson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 I'm a Computer Engineer. Currently working as a Full Stack Web Developer.
 
