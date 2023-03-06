@@ -8,8 +8,9 @@ I'm a Computer Engineer. Currently working as a Full Stack Web Developer.
 📅 SQL Server, MySQL, PostgreSQL, DynamoDB, MongoDB  
 ☁️ AWS  
 🛠️ Typescript  
+🐳 Docker, Kubernetes  
 🧰 And more... 
  
 #### 💬 Find me elsewhere
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/davidson-schaly-81138a114/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/davidson-schaly) 
 [![Gmail Badge](https://img.shields.io/badge/-davidson.schaly@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidson.schaly@gmail.com)](mailto:davidson.schaly@gmail.com)
