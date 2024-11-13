@@ -4,11 +4,11 @@ I'm a Computer Engineer. Currently working as a Full Stack Web Developer.
 
 #### My current tools:
 🌎 Front-end Web with React  
-📡 Back-end with ASP.NET, ASP.NET Core and Nodejs  
+📡 Back-end with .NET, and Nodejs  
 📅 SQL Server, MySQL, PostgreSQL, DynamoDB, MongoDB  
-☁️ AWS  
-🛠️ Typescript  
-🐳 Docker, Kubernetes  
+☁️ AWS, Azure DevOps
+🛠️ Typescript, Unit Testing
+🐳 Docker, Kubernetes
 🧰 And more... 
  
 #### 💬 Find me elsewhere
