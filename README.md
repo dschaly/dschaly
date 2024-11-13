@@ -7,8 +7,8 @@ I'm a Computer Engineer. Currently working as a Full Stack Web Developer.
 📡 Back-end with .NET, and Nodejs  
 📅 SQL Server, MySQL, PostgreSQL, DynamoDB, MongoDB  
 ☁️ AWS, Azure DevOps
-🛠️ Typescript, Unit Testing
-🐳 Docker, Kubernetes
+🛠️ Typescript, Unit Testing  
+🐳 Docker, Kubernetes  
 🧰 And more... 
  
 #### 💬 Find me elsewhere
